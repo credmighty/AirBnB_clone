@@ -1,16 +1,16 @@
 0x01. AirBnB clone - Web static
-HTML
-CSS
-Front-end
+===============================
+HTML CSS Front-end
  By: Guillaume
  Weight: 1
  Project will start Mar 14, 2024 6:00 AM, must end by Mar 19, 2024 6:00 AM
  Manual QA review must be done (request it when you are done with the project)
-Concepts
+
+### Concepts
 For this project, we expect you to look at these concepts:
 
-HTML/CSS
-The trinity of front-end quality
+- [HTML/CSS](https://docs.google.com/document/d/1AdPtJYebhwWX_2Dvj0uAEcVv1-q2QNnzR0jt2jHo3Xs/edit?usp=sharing)
+- [The trinity of front-end quality](https://docs.google.com/document/d/1Mkwfz7GQbEuRD3vIL2Um36bU35XUu5OCS0xecrekGl8/edit?usp=sharing)
 
 
 Background Context
@@ -33,52 +33,31 @@ Before starting, please fork or clone the repository AirBnB_clone from your part
 Resources
 Read or watch:
 
-Learn to Code HTML & CSS (until “Creating Lists” included)
-Inline Styles in HTML
-Specifics on CSS Specificity
-CSS SpeciFishity
-Introduction to HTML
-CSS
-MDN
-center boxes
+- [Learn to Code HTML & CSS](https://learn.shayhowe.com/html-css/) (until “Creating Lists” included)
+- [Inline Styles in HTML](https://www.codecademy.com/article/html-inline-styles)
+- [Specifics on CSS Specificity](https://css-tricks.com/specifics-on-css-specificity/)
+- [CSS SpeciFishity](https://www.standardista.com/cgi-sys/suspendedpage.cgi)
+- [Introduction to HTML]
+- [CSS](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics)
+- [MDN](https://developer.mozilla.org/en-US/)
+- [center boxes](https://css-tricks.com/centering-css-complete-guide/)
 Learning Objectives
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 
-General
-What is HTML
-How to create an HTML page
-What is a markup language
-What is the DOM
-What is an element / tag
-What is an attribute
-How does the browser load a webpage
-What is CSS
-How to add style to an element
-What is a class
-What is a selector
-How to compute CSS Specificity Value
-What are Box properties in CSS
-Copyright - Plagiarism
-You are tasked to come up with solutions for the tasks below yourself to meet with the above learning objectives.
-You will not be able to meet the objectives of this or any following project by copying and pasting someone else’s work.
-You are not allowed to publish any content of this project.
-Any form of plagiarism is strictly forbidden and will result in removal from the program.
-Requirements
-General
-Allowed editors: vi, vim, emacs
-All your files should end with a new line
-A README.md file, at the root of the folder of the project, is mandatory
-Your code should be W3C compliant and validate with W3C-Validator
-All your CSS files should be in styles folder
-All your images should be in images folder
-You are not allowed to use !important and id (#... in the CSS file)
-You are not allowed to use tags img, embed and iframe
-You are not allowed to use Javascript
-Current screenshots have been done on Chrome 56 or more.
-No cross browsers
-You have to follow all requirements but some margin/padding are missing - you should try to fit as much as you can to screenshots
-More Info
 
+- A README.md file, at the root of the folder of the project, is mandatory
+- Your code should be W3C compliant and validate with W3C-Validator
+- All your CSS files should be in styles folder
+- All your images should be in images folder
+- You are not allowed to use !important and id (#... in the CSS file)
+- You are not allowed to use tags img, embed and iframe
+- You are not allowed to use Javascript
+- Current screenshots have been done on Chrome 56 or more.
+- No cross browsers
+- You have to follow all requirements but some margin/padding are missing - you should try to fit as much as you can to screenshots
+- 
+More Info
+![serverside/clientside](https://s3.amazonaws.com/intranet-projects-files/concepts/74/hbnb_step1.png)
 
 Quiz questions
 Great! You've completed the quiz successfully! Keep going! (Show quiz)
@@ -109,6 +88,7 @@ You are not allowed to import any files
 You are not allowed to use the style tag in the head tag
 Use inline styling for all your tags
 
+![0-png](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2021/12/98f4ac1b0644512ce7ae91a9e8e61e8fe174911d.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20250501%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250501T204708Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=5a0a7ed8741f54a9ebffd2bb44fd1b41aeb83a0d8328fbe5cea531887e4fb68a)
 
 Repo:
 
@@ -191,6 +171,7 @@ styles/3-common.css: for the global style (i.e body style)
 styles/3-header.css: for the header style
 styles/3-footer.css: for the footer style
 
+![3-png](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2021/12/2be1eda05a0d9097c210f2d3482a59aa858c5711.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20250501%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250501T204708Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=335f3f4fa742212157ae30bc068384d32bc0af6a958db1a6ecb38db79142dc2c)
 
 Repo:
 
@@ -245,6 +226,7 @@ styles/3-footer.css: for the footer style
 styles/4-filters.css: for the filters style
 4-index.html won’t be W3C valid, don’t worry, it’s temporary
 
+![4-png](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2021/12/f959154b0cdf1cdf71ddef04e3787ef28462793e.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20250501%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250501T204708Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=f821603ade398616013c3dedeea20be9c1c07dc7a61d483c452752dd74bb7e71)
 
 Repo:
 
@@ -287,6 +269,7 @@ styles/3-header.css: for the header style
 styles/3-footer.css: for the footer style
 styles/5-filters.css: for the filters style
 
+![5-png](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2021/12/85bfa50b96c2985723daa75b5e22f75ef16e2b2e.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20250501%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250501T204708Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=c7a063ae1984f2c70c440e34a396711abeae1fee30a3628ad05e185eb2d0c0ea)
 
 Repo:
 
@@ -326,6 +309,8 @@ styles/3-header.css: for the header style
 styles/3-footer.css: for the footer style
 styles/6-filters.css: for the filters style
  
+![6-1png](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2021/12/6262f13624dca23ca19db505c44f88faddb82ebb.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20250501%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250501T204708Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=05ba72da9fc0a7ea46bfdc14224f6bb089780eceb91cc6e2ced0c9bcf00d660a)
+![6-2png](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2021/12/6e6bdfa13fa88a5f439d9e2b1dade826dd95529b.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20250501%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250501T204708Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=5899f94ed86f4fd0dcd17cd096b0b614ac86744166cba3b615d6b79d13fad7cd)
 
 Repo:
 
@@ -371,6 +356,7 @@ styles/3-footer.css: for footer style
 styles/6-filters.css: for the filters style
 styles/7-places.css: for the places style
 
+![7-png](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2021/12/bca4d17fbe21a58b66a9d5d6b85df4801d147dd0.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20250501%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250501T204708Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=ec302223f6478e2c570428614d51205b20619afa80e57e443c7a07638a88a48b)
 
 Repo:
 
@@ -442,6 +428,7 @@ styles/3-footer.css: for the footer style
 styles/6-filters.css: for the filters style
 styles/8-places.css: for the places style
 
+![8-png](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2021/12/f4b2d4ef94bd3a2e7e1ddefa81236595686d270e.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20250501%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250501T204708Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=733bdd670fb3822c526bfa69cbb15f712b73835b8d9a84051df7aacb06d0c8d8)
 
 Repo:
 
@@ -501,6 +488,7 @@ styles/3-footer.css: for the footer style
 styles/6-filters.css: for the filters style
 styles/100-places.css: for the places style
 
+![9-png](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2021/12/f54486a431a05ea3477e337e0e953686d3c6ffd0.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20250501%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250501T204708Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=d363dc3911630e6f1678212494a38c65cd661882bc863306e12d333f3434a7a7)
 
 Repo:
 
@@ -546,7 +534,7 @@ Header tags
 etc.
 Well done on completing this project! Let the world hear about this milestone achieved.
 
-Click here to tweet!
+[Click here to tweet!](https://x.com/intent/tweet?text=I+have+successfully+completed+my+AirBnB+Web+Static+project+on+%23ALX_SE+%40facesofalxse)
 
 Repo:
 
